@@ -1,1 +1,1 @@
-# hackerrank-python-practise
+# hackerrank-solutions
